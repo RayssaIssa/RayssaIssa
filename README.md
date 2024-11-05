@@ -1,4 +1,4 @@
-## Oii, eu sou a Rayssa 👩‍💻🫰
+## Oie, eu sou a Rayssa 👩‍💻
 
 <div>
   <a href="https://github.com/RayssaIssa">
@@ -21,7 +21,7 @@
 ## Principais repositórios 🤓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayssaIssa&repo=CodesAP1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayssaIssa&repo=integrador2022&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayssaIssa&repo=A-R-Study&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)          
 
 ## Redes socias 📱
